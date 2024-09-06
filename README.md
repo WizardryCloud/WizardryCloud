@@ -7,38 +7,38 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in Flutt
 <table>
   <tr>
     <td>
-      ### Flutter
-      - 📱 Building cross-platform mobile apps with Flutter
-      - 🎨 Using GetX for state management and routing
-      - 🔄 Managing data with Provider and GetStorage
-      - 🛠️ Developing custom widgets and animations
-      - 🌐 Integrating with APIs and handling network requests
+      **Flutter**<br>
+      - 📱 Building cross-platform mobile apps with Flutter<br>
+      - 🎨 Using GetX for state management and routing<br>
+      - 🔄 Managing data with Provider and GetStorage<br>
+      - 🛠️ Developing custom widgets and animations<br>
+      - 🌐 Integrating with APIs and handling network requests<br>
     </td>
     <td>
-      ### React Native
-      - 📱 Developing mobile applications using React Native
-      - 🏗️ Implementing navigation with React Navigation
-      - 💬 Managing state with Redux and Context API
-      - 🔌 Integrating with third-party libraries and services
-      - 📦 Building reusable components and UI elements
+      **React Native**<br>
+      - 📱 Developing mobile applications using React Native<br>
+      - 🏗️ Implementing navigation with React Navigation<br>
+      - 💬 Managing state with Redux and Context API<br>
+      - 🔌 Integrating with third-party libraries and services<br>
+      - 📦 Building reusable components and UI elements<br>
     </td>
   </tr>
   <tr>
     <td>
-      ### Django
-      - 🌐 Developing robust web applications using Django
-      - 🛡️ Implementing authentication and authorization with Djoser
-      - 🗃️ Designing and optimizing Django models and serializers
-      - 🔧 Working with Django REST Framework for API development
-      - 🔄 Handling database migrations and queries
+      **Django**<br>
+      - 🌐 Developing robust web applications using Django<br>
+      - 🛡️ Implementing authentication and authorization with Djoser<br>
+      - 🗃️ Designing and optimizing Django models and serializers<br>
+      - 🔧 Working with Django REST Framework for API development<br>
+      - 🔄 Handling database migrations and queries<br>
     </td>
     <td>
-      ### Node.js
-      - 🕹️ Building scalable server-side applications with Node.js
-      - 🗃️ Managing MongoDB databases with Mongoose
-      - 📧 Sending emails and handling notifications with Nodemailer
-      - 🛠️ Creating and managing RESTful APIs
-      - 🔄 Implementing caching and performance optimization
+      **Node.js**<br>
+      - 🕹️ Building scalable server-side applications with Node.js<br>
+      - 🗃️ Managing MongoDB databases with Mongoose<br>
+      - 📧 Sending emails and handling notifications with Nodemailer<br>
+      - 🛠️ Creating and managing RESTful APIs<br>
+      - 🔄 Implementing caching and performance optimization<br>
     </td>
   </tr>
 </table>
